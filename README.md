@@ -30,6 +30,14 @@ This project, developed at **TEK-UP Private Higher School of Technology and Engi
 *   **Main Unit:** Raspberry Pi 4 (4 GB RAM, 32 GB SD Card).
     
 *   **Network Interfaces:** Built-in Ethernet and optional USB Wi-Fi adapters for WAN connectivity.
+
+
+<div align="center">
+  <img src="https://github.com/nassim-saii/Secure-Portable-Router/blob/main/Pics/Hardware/Rpi4.jpg"  width="350"/> 
+  <img src="https://github.com/nassim-saii/Secure-Portable-Router/blob/main/Pics/Hardware/usbwifiadapters-2048px-9977.webp"  width="350"/>
+</div>
+
+   
     
 
 ### Software
