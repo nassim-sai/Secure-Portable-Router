@@ -33,8 +33,8 @@ This project, developed at **TEK-UP Private Higher School of Technology and Engi
 
 
 <div align="center">
-  <img src="https://github.com/nassim-saii/Secure-Portable-Router/blob/main/Pics/Hardware/Rpi4.jpg"  width="Auto" height="Auto"/> 
-  <img src="https://github.com/nassim-saii/Secure-Portable-Router/blob/main/Pics/Hardware/usbwifiadapters-2048px-9977.webp"  width="Auto" height="Auto"/>
+  <img src="https://github.com/nassim-saii/Secure-Portable-Router/blob/main/Pics/Hardware/Rpi4.jpg"  width="400"/> 
+  <img src="https://github.com/nassim-saii/Secure-Portable-Router/blob/main/Pics/Hardware/usbwifiadapters-2048px-9977.webp" width="400"/>
 </div>
 
    
