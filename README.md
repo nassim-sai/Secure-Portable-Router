@@ -72,6 +72,9 @@ Set up **Cowrie** to emulate vulnerable services (SSH/Telnet), allowing for the 
 
 Configure **OpenVPN** to ensure that all data leaving the router remains confidential and anonymous.
 
+<img src="https://github.com/nassim-sai/Secure-Portable-Router/blob/main/Pics/image (5).png"  alt="screenshot" width="Auto" height="Auto" />
+
+
 📂 Project Structure
 --------------------
 
