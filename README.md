@@ -81,7 +81,7 @@ Configure **OpenVPN** to ensure that all data leaving the router remains confide
 
 -------------------------- 
 
-**Author:** Saii Nassim
+**Author:** Sai Nassim
 
 **Academic Year:** 2025-2026
 
